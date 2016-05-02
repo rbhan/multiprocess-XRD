@@ -1,5 +1,5 @@
-Rebecca Han
-Written 4/9/2016 to calculate XRD for 10 structures per SFR in [0, 0.42] using pymatgen
+#Rebecca Han
+#Written 4/9/2016 to calculate XRD for 10 structures per SFR in [0, 0.42] using pymatgen
 
 1. running calculate_XRD.py
   - INPUT .vasp structure files
